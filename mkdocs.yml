@@ -1,0 +1,8 @@
+site_name: "kukula"
+site_description: "kukula service"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
